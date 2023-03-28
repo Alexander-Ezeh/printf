@@ -1,1 +1,3 @@
-This is a readme for Prinf Group Project
+0x11. C - printf
+Team Task
+Group Project
